@@ -1,5 +1,5 @@
 # React Basics
-## [check at Github pages](https://ravithakur17.github.io/Monster-Rolodex-Basic-React-App/)
+
 
 ## Concepts Implemented
 
