@@ -1,8 +1,5 @@
-# React Basics level 1
-
-This project was started with [Create React App](https://github.com/facebook/create-react-app).
-
-## [check at Github pages](https://ravithakur17.github.io/Monster-Rolodex-Basic-React-App-1/)
+# React Basics
+## [check at Github pages](https://ravithakur17.github.io/Monster-Rolodex-Basic-React-App/)
 
 ## Concepts Implemented
 
